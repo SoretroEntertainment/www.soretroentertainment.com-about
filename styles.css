@@ -43,7 +43,7 @@ a {
   }
 }
 .day {
-  background-image: url("https://raw.githubusercontent.com/Nikosite/nikosite.com/8e9818cbd33ba5166fa1533c473c6764f906781d/WebsiteBackground.gif");
+  background-image: url("https://raw.githubusercontent.com/Nikosite/nikosite.com/9005156e9326482b8fa0926e8c62df0d937ab91b/Images/WebBackground.gif");
   background-color: white;
   div {
   background-color: lightgray;
@@ -66,7 +66,7 @@ a {
   }
 }
 .night {
-  background-image: url("https://raw.githubusercontent.com/Nikosite/nikosite.com/8e9818cbd33ba5166fa1533c473c6764f906781d/WebsiteBackgroundNight.gif");
+  background-image: url("https://raw.githubusercontent.com/Nikosite/nikosite.com/9005156e9326482b8fa0926e8c62df0d937ab91b/Images/WebBackgroundNight.gif");
   background-color: black;
   div {
   background-color: #2C2C2C;
